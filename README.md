@@ -4,7 +4,7 @@
 
 **Full-Stack Web Developer · MERN Stack**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ubaidwebdeveloper-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ubaidwebdeveloper)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ubaidahmaddev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ubaidahmaddev)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-iubaidahmad303@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iubaidahmad303@gmail.com)
 &nbsp;
@@ -79,4 +79,4 @@ MERN applications, landing pages, brand websites, UI builds, and design-to-code 
 
 ## Contact
 
-Reach out via email at **iubaidahmad303@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/ubaidwebdeveloper). Response within 24 hours.
+Reach out via email at **iubaidahmad303@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/ubaidahmaddev). Response within 24 hours.
