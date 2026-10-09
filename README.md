@@ -2,81 +2,98 @@
 
 # Ubaid Ahmad
 
-**Full-Stack Web Developer · MERN Stack**
+**MERN Stack / Junior Full-Stack Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ubaidahmaddev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ubaidahmaddev)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-iubaidahmad303@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iubaidahmad303@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-stackiid-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/stackiid)
+Final-year BS Computer Science student · University of Swabi
 
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Internships%20%26%20Freelance-2ea44f?style=flat-square)](mailto:iubaidahmad303@gmail.com)
-&nbsp;
-![Location](https://img.shields.io/badge/Location-Swabi%2C%20KPK%2C%20Pakistan-555555?style=flat-square)
-&nbsp;
-![Timezone](<https://img.shields.io/badge/Timezone-PKT%20(UTC%2B5)-555555?style=flat-square>)
+[Email](mailto:iubaidahmad303@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ubaidahmaddev) · [GitHub](https://github.com/stackiid) · [Portfolio](https://stackiid.github.io/portfolio/)
 
 </div>
 
 ---
 
-## Profile
+## Summary
 
-3rd-year Computer Science student at the University of Swabi with hands-on experience building full-stack web applications using the MERN stack. I focus on both the engineering and design sides of a product - writing maintainable backend logic, implementing clean REST APIs, and translating Figma designs into precise, responsive interfaces.
-
-I entered web development driven by a specific observation: the difference between a frustrating interface and a smooth one has a direct and measurable effect on users. That observation became a discipline. I ship real work for real clients and write code I can revisit six months later without regret.
-
-Currently in Semester 6 and actively seeking an internship or freelance engagement where I can contribute meaningfully to a production product.
+MERN Stack / Junior Full-Stack Developer and final-year BS Computer Science student with about six months of project-based experience building and deploying web apps in React, TypeScript, JavaScript and Tailwind CSS, with Chart.js visualizations, GSAP and Anime.js animation, accessible UI and GitHub Pages deployment. Open to Junior Full-Stack, MERN and Frontend roles.
 
 ---
 
-## Education
+## Experience
 
-**Bachelor of Science - Computer Science**
-University of Swabi · Swabi, KPK, Pakistan
-2023 – 2027 · Currently in Semester 6 (3rd Year)
+**Web Development Intern** · HerDev · Remote<br>
+*Aug 2, 2026 – Sep 15, 2026*
+
+- Built and refined web app features in a remote team, following coding standards and mentor feedback to deliver on schedule.
 
 ---
 
 ## Technical Skills
 
-**Languages**
-JavaScript (ES6+), TypeScript, Python, C++
-
-**Frontend**
-React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Sass
-
-**Backend & Database**
-Node.js, Express.js, MongoDB, REST API Design
-
-**Design & Tooling**
-Figma, Git, GitHub, Linux, VS Code
+| Category | Skills |
+| :-- | :-- |
+| **Languages** | JavaScript (ES6+), TypeScript, C++, Python |
+| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Chart.js, GSAP, Framer Motion, Anime.js |
+| **Backend and databases** | Node.js, Express.js, MongoDB, REST APIs |
+| **Tools** | Git, GitHub, GitHub Actions, GitHub Pages, Vite, Figma |
+| **UI/UX** | Figma, Responsive Design, Accessibility (ARIA, keyboard navigation) |
 
 ---
 
-## Capabilities
+## Selected Projects
 
-**Full-Stack Engineering**
-End-to-end MERN applications, REST API development, MongoDB schema design, Node.js service architecture, React component systems.
+### Study Station · Learning Resource Directory
+React · TypeScript · Tailwind CSS · GSAP<br>
+[Live demo](https://stackiid.github.io/study-station/) · [GitHub](https://github.com/stackiid/study-station)
 
-**UI / UX Implementation**
-Figma-to-code handoffs, Tailwind CSS, responsive and accessible layouts, user-first visual hierarchy.
+- React 19 and TypeScript single-page app (Vite, React Router 7) organizing 10 courses, 65 resources, 4 tutorials and 82 YouTube channels from typed data files.
+- Weighted, accent-insensitive in-browser search with a keyboard-driven overlay and URL-synced category filters; GitHub Actions lints, builds and deploys to GitHub Pages.
 
-**Attention to Detail**
-Consistent focus on both ends of the stack - pixel alignment on the frontend, clean schema and logic on the backend.
+### StudentHub · Academic Analytics Dashboard
+React · Vite · Tailwind CSS · Chart.js<br>
+[Live demo](https://stackiid.github.io/studenthub/) · [GitHub](https://github.com/stackiid/studenthub)
+
+- React 19 dashboard showing a student's attendance, grades, quizzes, assignments and presentations with Chart.js line, doughnut, bar and radar charts, built on sample data.
+- Student add, edit, delete, search and filter flows with form validation, React Context, custom hooks and localStorage persistence; GPA and attendance are computed in the browser.
+
+### Ludo Royale · Browser Board Game
+HTML5 · CSS3 · JavaScript · Anime.js<br>
+[Live demo](https://stackiid.github.io/ludo-royale/) · [GitHub](https://github.com/stackiid/ludo-royale)
+
+- 2–4 player Ludo in vanilla JavaScript with a rules engine (captures, safe squares, blockades, exact-roll finishing) and heuristic AI opponents.
+- CSS 3D dice animated with Anime.js, Web Crypto rolls, runtime-synthesized Web Audio sound effects, and autosave with resume.
+
+### Wildflour Bakehouse · Bakery Landing Page
+HTML5 · Tailwind CSS · Custom CSS<br>
+[Live demo](https://stackiid.github.io/wildflour-bakehouse/) · [GitHub](https://github.com/stackiid/wildflour-bakehouse)
+
+- Responsive 11-section single-page site for a fictional bakery, with a mobile menu built from a hidden checkbox and CSS sibling selector, with no application JavaScript.
+- Semantic landmarks, aria-labels, image alt text, focus-visible styles and a reduced-motion rule.
+
+**[Explore All Projects →](https://github.com/stackiid/stackiid/blob/main/PROJECTS.md)** All 12 repositories, grouped by category with stacks and links.
 
 ---
 
-## Open To
+## Education
 
-**Internships**
-Frontend, Full-Stack, or UI/UX-focused roles. Remote or on-site. Available immediately.
+**BS Computer Science** · University of Swabi<br>
+Currently enrolled · Final year · GPA 3.50 · CGPA 3.43
 
-**Freelance Projects**
-MERN applications, landing pages, brand websites, UI builds, and design-to-code handoffs. Currently accepting new clients.
+---
+
+## Certifications
+
+- Programming with JavaScript · Meta · Sep 29, 2026
+- Version Control · Meta · Sep 24, 2026
+- React Basics · Meta · Sep 19, 2026
+- JavaScript Programming · freeCodeCamp · Aug 1, 2026
+- HTML and CSS in Depth · Meta · Jul 17, 2026
+- Designing User Interfaces and Experiences (UI/UX) · IBM · Jul 4, 2026
+- Responsive Web Design · freeCodeCamp · Jun 14, 2026
 
 ---
 
 ## Contact
 
-Reach out via email at **iubaidahmad303@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/ubaidahmaddev). Response within 24 hours.
+Open to Junior Full-Stack, MERN and Frontend roles.
+
+[iubaidahmad303@gmail.com](mailto:iubaidahmad303@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ubaidahmaddev) · [Portfolio](https://stackiid.github.io/portfolio/) · [Project directory](https://github.com/stackiid/stackiid/blob/main/PROJECTS.md)
